@@ -1,7 +1,7 @@
 # Incident Response Playbook 01: Enterprise Ransomware Containment
 
-**Framework Alignment:** NIST SP 800-61 Rev 2 (Computer Security Incident Handling Guide)  
-**Classification:** Enterprise SecOps Standard Operating Procedure (SOP)  
+**Framework Alignment:** NIST SP 800-61 Rev 2 (Computer Security Incident Handling Guide) 
+**Classification:** Enterprise SecOps Standard Operating Procedure (SOP) 
 **Objective:** Rapid triage, network isolation, cryptographic preservation, and eradication of double-extortion ransomware.
 
 ---

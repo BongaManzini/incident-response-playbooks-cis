@@ -1,6 +1,6 @@
 # Incident Response Playbook 02: Business Email Compromise (BEC) & M365 Takeover
 
-**Target Environment:** Microsoft 365, Azure Active Directory, Exchange Online  
+**Target Environment:** Microsoft 365, Azure Active Directory, Exchange Online 
 **Threat Vector:** Phishing, AiTM (Adversary-in-the-Middle) Session Hijacking, Malicious Mailbox Forwarding Rules
 
 ---

@@ -8,14 +8,14 @@ Standard Operating Procedures (SOPs) and automated hardening frameworks aligned 
 
 ```
 Incident-Response-Playbooks/
-├── Playbook-01-Enterprise-Ransomware-Containment.md              # Double-extortion ransomware response
+├── Playbook-01-Enterprise-Ransomware-Containment.md       # Double-extortion ransomware response
 ├── Playbook-02-Business-Email-Compromise-and-O365-Account-Takeover.md # AiTM phishing & M365 session kill
-├── Playbook-03-Supply-Chain-and-CI-CD-Poisoning.md               # GitHub Actions & dependency poisoning
-├── CIS-Hardening-Automation/                                     # Automated Level-2 Linux compliance
-│   ├── cis_level2_auditor.sh                                     # Host inspection script
-│   ├── cis_benchmark_reporter.py                                 # Scorecard generator
-│   └── README.md
-└── README.md                                                     # This index
+├── Playbook-03-Supply-Chain-and-CI-CD-Poisoning.md        # GitHub Actions & dependency poisoning
+├── CIS-Hardening-Automation/                   # Automated Level-2 Linux compliance
+│  ├── cis_level2_auditor.sh                   # Host inspection script
+│  ├── cis_benchmark_reporter.py                 # Scorecard generator
+│  └── README.md
+└── README.md                           # This index
 ```
 
 ---

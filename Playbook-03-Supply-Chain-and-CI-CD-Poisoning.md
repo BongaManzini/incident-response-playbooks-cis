@@ -1,7 +1,7 @@
 # Incident Response Playbook 03: Supply Chain & CI/CD Pipeline Poisoning
 
-**Scope:** GitHub Actions, GitLab CI, Container Registries, npm/PyPI dependencies  
-**Standard:** OpenSSF Scorecard, SLSA (Supply-chain Levels for Software Artifacts) Level 3  
+**Scope:** GitHub Actions, GitLab CI, Container Registries, npm/PyPI dependencies 
+**Standard:** OpenSSF Scorecard, SLSA (Supply-chain Levels for Software Artifacts) Level 3 
 
 ---
 
